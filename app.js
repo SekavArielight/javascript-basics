@@ -1,3 +1,7 @@
-console.log("Maryam loves her family");
-console.log("Maryam loves coding");
-console.log("Miracle is very rich");
+// NUMBER ONE
+console.log(23 + 97);
+
+// NUMBER TWO
+
+
+//NUMBER THREE
